@@ -1,4 +1,4 @@
-program PendaftaranKIPK;
+program Program_seleksi_KPIK;
 uses crt;
 
 type
